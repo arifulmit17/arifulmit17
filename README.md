@@ -1,5 +1,7 @@
 <h1>Md. Ariful Haque</h1>
 <h2>Junior frontend developer</h2>
+
+<img src="https://github.com/arifulmit17/arifulmit17/blob/main/Md.%20Ariful%20Haque.png" />
 <h3>About me</h3>
 <p>I am a person who loves exploring different technologies such as different web technologies like mern stack as well as other technologies like machine learning, deep learning, data science etc.</p>
 
