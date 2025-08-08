@@ -5,6 +5,8 @@
 <h3>About me</h3>
 <p>I am a person who loves exploring different technologies such as different web technologies like mern stack as well as other technologies like machine learning, deep learning, data science etc.</p>
 
+<h3>Contact: +8801757173149</h3>
+
 <h3>I’m currently learning technologies like</h3>
 <ul>
   <li>React.js</li>
