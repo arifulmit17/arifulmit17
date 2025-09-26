@@ -14,6 +14,7 @@
   <li>Express.js</li>
   <li>MongoDB</li>
   <li>Next.js</li>
+  <li>Typescript</li>
   <li>Firebase authentication</li>
 </ul>
 
