@@ -15,6 +15,7 @@
   <li>MongoDB</li>
   <li>Next.js</li>
   <li>Typescript</li>
+  <li>Redux</li>
   <li>Firebase authentication</li>
 </ul>
 
