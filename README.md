@@ -17,6 +17,7 @@
   <li>Typescript</li>
   <li>Prisma</li>
   <li>Redux</li>
+  <li>PostgreSQL</li>
   <li>Firebase authentication</li>
 </ul>
 
