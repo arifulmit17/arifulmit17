@@ -1,9 +1,9 @@
 <h1>Md. Ariful Haque</h1>
-<h2> Frontend developer</h2>
+<h2> Fullstack developer</h2>
 
 <img src="https://github.com/arifulmit17/arifulmit17/blob/main/Md.%20Ariful%20Haque_github.png" />
 <h3>About me</h3>
-<p>I am a person who loves exploring different technologies such as different web technologies like mern stack as well as other technologies like machine learning, deep learning, data science etc.</p>
+<p>I am a person who loves exploring different technologies such as different web technologies like mern stack,next.js as well as other technologies like machine learning, deep learning, data science etc.</p>
 
 <h3>Contact: +8801757173149</h3>
 
